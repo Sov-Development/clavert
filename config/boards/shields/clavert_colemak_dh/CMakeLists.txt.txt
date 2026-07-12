@@ -1,0 +1,2 @@
+zmk_add_shield(clavert_colemak_dh_left)
+zmk_add_shield(clavert_colemak_dh_right)
