@@ -1,0 +1,5 @@
+# Copyright (c) 2021 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+zmk_add_shield(clavert_left)
+zmk_add_shield(clavert_right)
